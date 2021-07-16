@@ -1,0 +1,6 @@
+server.port=8888
+#spring.cloud.config.server.bootstrap=true
+#spring.profiles.active=native
+#spring.application.name=cloud-server
+spring.cloud.config.server.git.uri=https://github.com/Mahesh8797/ConfigServer
+management.security.enabled=false

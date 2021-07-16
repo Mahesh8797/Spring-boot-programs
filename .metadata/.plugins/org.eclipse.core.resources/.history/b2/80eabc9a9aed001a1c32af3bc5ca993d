@@ -1,0 +1,6 @@
+
+server.port=8081
+spring.profiles.active=native
+spring.cloud.config.server.native.search-locations=classpath:/config
+spring.cloud.config.uri=http://localhost:8888/cloud-server
+spring.application.name=db

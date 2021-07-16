@@ -1,0 +1,6 @@
+package com.config.client;
+
+@RestController
+public class CallingProperties {
+
+}

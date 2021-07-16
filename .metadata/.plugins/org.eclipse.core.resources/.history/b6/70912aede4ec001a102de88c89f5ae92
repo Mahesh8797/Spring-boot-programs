@@ -1,0 +1,5 @@
+
+server.port=8081
+server.servlet.context-path=/cloud-server
+spring.profiles.active=native
+spring.cloud.config.server.native.search-locations=classpath:/config

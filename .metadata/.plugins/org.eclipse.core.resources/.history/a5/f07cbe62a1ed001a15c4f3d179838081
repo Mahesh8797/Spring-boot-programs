@@ -1,0 +1,7 @@
+
+server.port=8081
+#spring.profiles.active=native
+#spring.cloud.config.server.native.search-locations=classpath:/config
+spring.cloud.config.uri=http://localhost:8888
+spring.application.name=config
+management.security.enabled=false
